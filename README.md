@@ -30,6 +30,3 @@ This web application is designed to facilitate the daily operations of a police 
 **Server:** PHP, Maria DB, MySql
 
 
-## Authors
-
-- [@iBz-04](https://github.com/iBz-04)
